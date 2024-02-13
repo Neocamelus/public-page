@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>StaticBlog</title>
+    <link href="https://neocamelus.github.io/public-page/feed.xml" rel="self" />
+    <link href="https://neocamelus.github.io/public-page" />
+    <updated>2024-02-13T19:46:48+01:00</updated>
+    <author>
+        <name>NeoCamelus</name>
+    </author>
+    <id>https://neocamelus.github.io/public-page</id>
+
+    <entry>
+        <title>Welcome</title>
+        <author>
+            <name>NeoCamelus</name>
+        </author>
+        <link href="https://neocamelus.github.io/public-page/welcome.html"/>
+        <id>https://neocamelus.github.io/public-page/welcome.html</id>
+
+        <updated>2024-02-13T19:46:48+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Welcome Introduction Looking for advice on technology or productivity. We love hearing from our readers! If you have any questions, suggestions, or feedback, don’t hesitate to reach out to us. You can also join our community on social media to stay updated on the latest&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 id="welcome">Welcome</h1>
+<h2 id="introduction">Introduction</h2>
+<p>Looking for advice on technology or productivity.</p>
+<h2 id="what-youll-find-here">What You’ll Find Here</h2>
+<ul>
+<li><strong>Informative Articles</strong>: We strive to bring you well-researched and informative articles that delve into various subjects.</li>
+<li><strong>Practical Tips</strong>: From practical life hacks to expert advice, we aim to provide actionable tips that you can implement in your daily life.</li>
+<li><strong>How-Tos and Tutorials</strong>: Whether you’re a beginner or an expert, our how-to guides and tutorials will help you learn new skills and master your craft.</li>
+</ul>
+<h2 id="get-involved">Get Involved</h2>
+<p>We love hearing from our readers! If you have any questions, suggestions, or feedback, don’t hesitate to reach out to us. You can also join our community on social media to stay updated on the latest blog posts and engage with like-minded individuals.</p>
+<h2 id="stay-connected">Stay Connected</h2>
+<p>Stay connected with us by subscribing to our newsletter and following us on social media. Be the first to know about our latest articles, exclusive offers, and upcoming events.</p>
+<p>Thank you for visiting our blog. We hope you enjoy exploring our content and find it valuable!</p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>

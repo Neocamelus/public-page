@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "StaticBlog",
+    "description": "",
+    "home_page_url": "https://neocamelus.github.io/public-page",
+    "feed_url": "https://neocamelus.github.io/public-page/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "NeoCamelus"
+    },
+    "items": [
+        {
+            "id": "https://neocamelus.github.io/public-page/welcome.html",
+            "url": "https://neocamelus.github.io/public-page/welcome.html",
+            "title": "Welcome",
+            "summary": "Welcome Introduction Looking for advice on technology or productivity. We love hearing from our readers! If you have any questions, suggestions, or feedback, don’t hesitate to reach out to us. You can also join our community on social media to stay updated on the latest&hellip;",
+            "content_html": "<h1 id=\"welcome\">Welcome</h1>\n<h2 id=\"introduction\">Introduction</h2>\n<p>Looking for advice on technology or productivity.</p>\n<h2 id=\"what-youll-find-here\">What You’ll Find Here</h2>\n<ul>\n<li><strong>Informative Articles</strong>: We strive to bring you well-researched and informative articles that delve into various subjects.</li>\n<li><strong>Practical Tips</strong>: From practical life hacks to expert advice, we aim to provide actionable tips that you can implement in your daily life.</li>\n<li><strong>How-Tos and Tutorials</strong>: Whether you’re a beginner or an expert, our how-to guides and tutorials will help you learn new skills and master your craft.</li>\n</ul>\n<h2 id=\"get-involved\">Get Involved</h2>\n<p>We love hearing from our readers! If you have any questions, suggestions, or feedback, don’t hesitate to reach out to us. You can also join our community on social media to stay updated on the latest blog posts and engage with like-minded individuals.</p>\n<h2 id=\"stay-connected\">Stay Connected</h2>\n<p>Stay connected with us by subscribing to our newsletter and following us on social media. Be the first to know about our latest articles, exclusive offers, and upcoming events.</p>\n<p>Thank you for visiting our blog. We hope you enjoy exploring our content and find it valuable!</p>\n",
+            "author": {
+                "name": "NeoCamelus"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-13T19:46:48+01:00",
+            "date_modified": "2024-02-13T19:46:48+01:00"
+        }
+    ]
+}

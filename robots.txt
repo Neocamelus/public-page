@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://neocamelus.github.io/public-page/sitemap.xml
